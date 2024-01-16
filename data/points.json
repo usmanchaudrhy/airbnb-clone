@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "price": 0.26,
+    "title": "Sydney GreenPower Station",
+    "numberOfStars": 4,
+    "rating": 4.5,
+    "image": "https://www.peppyocean.com/wp-content/uploads/2022/04/ev-charging-station-finder-app.png",
+    "description": "GreenCharge Station is committed to providing eco-friendly and affordable charging solutions. Enjoy a 4-star facility with a 4.5 rating from our satisfied customers."
+  },
+  {
+    "id": "2",
+    "latitude": -33.8679,
+    "longitude": 151.2074,
+    "price": 0.3,
+    "title": "EcoPower Charging Hub",
+    "numberOfStars": 5,
+    "rating": 5.0,
+    "image": "https://www.peppyocean.com/wp-content/uploads/2022/04/ev-charging-station-finder-app.png",
+    "description": "EcoPower Charging Hub is your go-to place for fast and efficient charging. With a 5-star rating, we ensure top-notch service and sustainability."
+  },
+  {
+    "id": "3",
+    "latitude": -33.8705,
+    "longitude": 151.2069,
+    "price": 0.2,
+    "title": "CleanEnergy Charge Point",
+    "numberOfStars": 3,
+    "rating": 3.8,
+    "image": "https://www.peppyocean.com/wp-content/uploads/2022/04/ev-charging-station-finder-app.png",
+    "description": "CleanEnergy Charge Point focuses on affordability and reliability. Our 3-star facility boasts a 3.8 rating, providing a budget-friendly charging option."
+  },
+  {
+    "id": "4",
+    "latitude": -33.8668,
+    "longitude": 151.2093,
+    "price": 0.28,
+    "title": "SustainablePower Plaza",
+    "numberOfStars": 4,
+    "rating": 4.2,
+    "image": "https://www.peppyocean.com/wp-content/uploads/2022/04/ev-charging-station-finder-app.png",
+    "description": "SustainablePower Plaza is at the forefront of green energy solutions. Offering a 4-star experience, our charging plaza is committed to environmental sustainability."
+  },
+  {
+    "id": "5",
+    "latitude": -33.8745,
+    "longitude": 151.2133,
+    "price": 0.22,
+    "title": "ElectroDrive Hub",
+    "numberOfStars": 5,
+    "rating": 4.9,
+    "image": "https://www.peppyocean.com/wp-content/uploads/2022/04/ev-charging-station-finder-app.png",
+    "description": "ElectroDrive Hub combines cutting-edge technology with a 5-star rating for an exceptional charging experience. Charge your EV with confidence and speed."
+  }
+]
